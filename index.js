@@ -1,3 +1,3 @@
 exports.printMsg = function() {
-    console.log("test taras");
+    return "test_taras"
   }
