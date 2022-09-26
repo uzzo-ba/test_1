@@ -1,0 +1,15 @@
+{
+  "name": "test_taras",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uzzo-ba <taras.kolos@metisoft.it>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uzzo-ba/test_1"
+  }
+}
